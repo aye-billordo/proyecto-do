@@ -349,3 +349,12 @@ a.btn:hover {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
+
+.pd {
+  text-align: center;
+  background-color: aliceblue;
+}
+
+.gale {
+  background-color: azure;
+}
